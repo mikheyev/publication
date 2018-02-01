@@ -25,7 +25,7 @@ Click on these icons for the paper <img src="images/file-cloud-download.png"> to
 * M. Helmkampf<sup>\*</sup>, **A.S. Mikheyev**<sup>\*</sup>, Y. Kang, J. Fewell and J. Gadau. Gene expression and variation in social aggression by queens of the harvester ant *Pogonomyrmex californicus*. Molecular Ecology, 25(15):3716-30, 2016 [<img src="images/file-cloud-download.png">](http://onlinelibrary.wiley.com/doi/10.1111/mec.13700/epdf)
 <sup>\*</sup>contributed equally
 
-* A. Reyes-Bermudez, A. Villar-Briones, C Ramirez-Portilla, M Hidaka, **A.S. Mikheyev**. Developmental progression in the coral *Acropora digitifera* is controlled by differential expression of distinct regulatory gene networks. Genome Biology and Evolution, 8:3, 851-870, 2016[<img src="images/file-cloud-download.png">](http://gbe.oxfordjournals.org/content/early/2016/03/03/gbe.evw042.full.pdf)
+* A. Reyes-Bermudez, A. Villar-Briones, C Ramirez-Portilla, M Hidaka, **A.S. Mikheyev**. Developmental progression in the coral *Acropora digitifera* is controlled by differential expression of distinct regulatory gene networks. Genome Biology and Evolution, 8:3, 851-870, 2016 [<img src="images/file-cloud-download.png">](http://gbe.oxfordjournals.org/content/early/2016/03/03/gbe.evw042.full.pdf)
 
 * C. Morandin, M.M.Y. Tin, S. Abril, C. Gómez, L. Pontieri, M. Schiøtt, L. Sundström, K. Tsuji, J.S. Pedersen, H. Helanterä, **A.S. Mikheyev**. Comparative transcriptomics reveals the conserved building blocks involved in parallel evolution of ant phenotypic traits. Genome Biology 17:43, 2016 [<img src="images/file-cloud-download.png">](http://www.genomebiology.com/content/pdf/s13059-016-0902-7.pdf)
 
