@@ -1,5 +1,10 @@
 Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 
+* U.G. Mueller _et al._ Biogeography of mutualistic fungi cultivated by leafcutter ants. Molecular Ecology, 26, 6921-6937, 2017 [<img src="images/file-cloud-download.png">](https://github.com/mikheyev/publications/raw/master/pdf/Mueller_et_al-2017-Molecular_Ecology.pdf)
+
+* A.L. Carlson, H.D. Ishak, J. Kurian, **A.S. Mikheyev**, I. Gifford and U.G. Mueller
+Nuclear populations of the multinucleate fungus of leafcutter ants can be dekaryotized and recombined to manipulate growth of nutritive hyphal nodules harvested by the ants. Mycologia, DOI: 10.1080/00275514.2017.1400304, 2017 [<img src="images/file-cloud-download.png">](https://github.com/mikheyev/publications/raw/master/pdf/Mueller,2017,Nuclear_populations_of_the_multinucleate_fungus_of_leafcutter_ants_can_be_dekaryotized_and_recombined_to_manipulate_growth_of_nutritive_hyphal.pdf)
+
 * **A. S. Mikheyev**, A. Zwick., M.J.L. Magrath, M.L. Grau, L. Qiu, Y.N. Su, D. Yeates.  Museum genomics confirms that the Lord Howe Island stick insect survived extinction, Current Biology, 27, 3157–3161 [<img src="images/file-cloud-download.png">](http://www.cell.com/current-biology/pdf/S0960-9822(17)31098-9.pdf) [<img src="images/media.png">](http://homologo.us/papers/media-coverage/stick-insect)
 
 * J. Gospocic, E.J. Shields, K.M. Glastad, Y. Lin, C.A. Penick, H. Yan, **A.S. Mikheyev**, T.A. Linksvayer, B.A. Garcia, S.L. Berger, J. Liebig, D. Reinberg, R. Bonasio. The neuropeptide corazonin controls social behavior and caste identity in ants. Cell, 170:4 748-759 [<img src="images/file-cloud-download.png">](http://www.sciencedirect.com/science/article/pii/S0092867417308218)
