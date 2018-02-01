@@ -1,8 +1,6 @@
-## Publications
+Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 
-Click on these icons for the paper <img src="images/file-cloud-download.png"> or for for media coverage <img src="images/media.png">
-
-* **A. S. Mikheyev**, A. Zwick., M.J.L. Magrath, M.L. Grau, L. Qiu, Y.N. Su, D. Yeates.  Museum genomics confirms that the Lord Howe Island stick insect survived extinction, Current Biology, *in press* [<img src="images/file-cloud-download.png">](http://www.cell.com/current-biology/pdf/S0960-9822(17)31098-9.pdf)
+* **A. S. Mikheyev**, A. Zwick., M.J.L. Magrath, M.L. Grau, L. Qiu, Y.N. Su, D. Yeates.  Museum genomics confirms that the Lord Howe Island stick insect survived extinction, Current Biology, *in press* [<img src="images/file-cloud-download.png">](http://www.cell.com/current-biology/pdf/S0960-9822(17)31098-9.pdf) [<img src="images/file-cloud-download.png">](http://homologo.us/papers/media-coverage/stick-insect.html)
 
 * J. Gospocic, E.J. Shields, K.M. Glastad, Y. Lin, C.A. Penick, H. Yan, **A.S. Mikheyev**, T.A. Linksvayer, B.A. Garcia, S.L. Berger, J. Liebig, D. Reinberg, R. Bonasio. The neuropeptide corazonin controls social behavior and caste identity in ants. Cell, 170:4 748-759 [<img src="images/file-cloud-download.png">](http://www.sciencedirect.com/science/article/pii/S0092867417308218)
 
