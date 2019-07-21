@@ -1,8 +1,31 @@
+## Publications
+
 Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage.
 
-* U.G. Mueller _et al._ Biogeography of mutualistic fungi cultivated by leafcutter ants. *Molecular Ecology* 26, 6921-6937, 2017 [<img src="images/file-cloud-download.png">](https://github.com/mikheyev/publications/raw/master/pdf/Mueller_et_al-2017-Molecular_Ecology.pdf)
+* A. Barua,  **A.S. Mikheyev**. Many options, few solutions: Over 60 my snakes converged on a few optimal venom formulations. *in press*, 2019 [<img src="images/file-cloud-download.png">](https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msz125/28930891/msz125.pdf)
 
-* A.L. Carlson, H.D. Ishak, J. Kurian, **A.S. Mikheyev**, I. Gifford and U.G. Mueller
+* A. Wallberg, I. Bunikis, O.V. Pettersson, M-B. Mosbech, A.K. Childers, J.D. Evans, **A.S Mikheyev**, H.M. Robertson, G.E. Robinson, M.T. Webster. A hybrid *de novo* genome assembly of the honeybee, *Apis mellifera*, with chromosome-length scaffolds. *BMC Genomics*, 20 , 275, 2019 [<img src="images/file-cloud-download.png">](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-019-5642-0)
+
+* M.R. Warner, L. Qiu, M.J Holmes, **A.S. Mikheyev**, T.A. Linksvayer. Convergent eusocial evolution is based on a shared reproductive groundplan plus lineage-specific plastic genes. *Nature Communications*. 10:2651, 2019
+[<img src="images/file-cloud-download.png">](https://www.nature.com/articles/s41467-019-10546-w.pdf)
+
+* M.R. Warner, **A.S. Mikheyev**, T.A. Linksvayer. Transcriptomic basis and evolution of the ant nurse-larval social interactome. *PLoS genetics* 15, e1008156, 2019 [<img src="images/file-cloud-download.png">](https://journals.plos.org/plosgenetics/article/file?rev=1&id=10.1371/journal.pgen.1008156)
+
+* L. Holman, H. Helanterä, K. Trontti, **A.S. Mikheyev**. Comparative transcriptomics of social insect queen pheromones. 10:1, 1593, 2019 [<img src="images/file-cloud-download.png">](https://www.nature.com/articles/s41467-019-09567-2.pdf)
+
+* C. Morandin, V.P. Brendel, L. Sundström, H. Helanterä, **A.S. Mikheyev**. Changes in gene DNA methylation and expression networks accompany caste specialization and age‐related physiological changes in a social insect. *Molecular Ecology*, 28  1975-1993. 2019 [<img src="images/file-cloud-download.png">](https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15062)
+
+* C. Emborski, **A.S. Mikheyev**. Ancestral diet transgenerationally influences offspring in a parent-of-origin and sex-specific manner. *Philosophical Transactions of the Royal Society B* 374, 20180181 [<img src="images/file-cloud-download.png">](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0181)
+
+* C.C. Smith, J.N. Weber, **A.S. Mikheyev**, F. Roces, M. Bollazzi, K. Kellner, J.N. Seal, U.G. Mueller. Landscape genomics of an obligate mutualism: Concordant and discordant population structures between the leafcutter ant *Atta texana* and its two main fungal symbiont types. *Molecular Ecology*. 28, 2831-2845, 2019 [<img src="images/file-cloud-download.png">](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.15111)
+
+* N. Jovanovic, **A.S. Mikheyev**. Interactive web-based visualization and sharing of phylogenetic trees using phylogeny.IO. *Nucleic Acids Research*  47:1, W266–W269,2019 [<img src="images/file-cloud-download.png">](https://academic.oup.com/nar/article-pdf/47/W1/W266/28879996/gkz356.pdf)
+
+* K. Bozek, L. Hebert, **A.S. Mikheyev**, G.J. Stephens. Towards dense object tracking in a 2D honeybee hive. *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, pp4185-4193, 2018 [<img src="images/file-cloud-download.png">](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)
+
+* U.G. Mueller _et al._ Biogeography of mutualistic fungi cultivated by leafcutter ants. *Molecular Ecology*. 26, 6921-6937, 2017 [<img src="images/file-cloud-download.png">](https://github.com/mikheyev/publications/raw/master/pdf/Mueller_et_al-2017-Molecular_Ecology.pdf)
+
+* A.L. Carlson, H.D. Ishak, J. Kurian, **A.S. Mikheyev**, I. Gifford and U.G. Mueller.
 Nuclear populations of the multinucleate fungus of leafcutter ants can be dekaryotized and recombined to manipulate growth of nutritive hyphal nodules harvested by the ants. *Mycologia* DOI: 10.1080/00275514.2017.1400304, 2017 [<img src="images/file-cloud-download.png">](https://github.com/mikheyev/publications/raw/master/pdf/Mueller,2017,Nuclear_populations_of_the_multinucleate_fungus_of_leafcutter_ants_can_be_dekaryotized_and_recombined_to_manipulate_growth_of_nutritive_hyphal.pdf)
 
 * **A. S. Mikheyev**, A. Zwick., M.J.L. Magrath, M.L. Grau, L. Qiu, Y.N. Su, D. Yeates.  Museum genomics confirms that the Lord Howe Island stick insect survived extinction, *Current Biology* 27, 3157-3161, 2017 [<img src="images/file-cloud-download.png">](http://www.cell.com/current-biology/pdf/S0960-9822(17)31098-9.pdf) [<img src="images/media.png">](http://homologo.us/papers/media-coverage/stick-insect)
